@@ -1,0 +1,10 @@
+{
+    "welcome": "Welcome",
+    "hello": "Hello",
+    "stats": "Stats",
+    "clickPower": "Click Power",
+    "nextLevel": "Next Level",
+    "levelUp": "Level Up! 🎉",
+    "levelDescription": "Your click power increased to {{multiplier}}x"
+  }
+  
